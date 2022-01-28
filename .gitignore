@@ -1,0 +1,9 @@
+#Directories
+.vs/
+obj/
+Logs/
+Library/
+
+#Files
+*.csproj
+*.vsconfig
