@@ -9,8 +9,6 @@ public class Pathfinding : MonoBehaviour
     PathRequestManager pathRequestManager;
     Grid grid;
 
-    [SerializeField] Transform seeker, target;
-
     private void Awake()
     {
         grid = GetComponent<Grid>();
